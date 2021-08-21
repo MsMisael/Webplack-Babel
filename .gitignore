@@ -51,8 +51,9 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
+# Yarn file
 .yarn-integrity
+*.lock
 
 # dotenv environment variables file
 .env
@@ -74,3 +75,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
+*.lock
+*.lock
