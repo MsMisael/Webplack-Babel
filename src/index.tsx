@@ -4,6 +4,7 @@ import Landing from './Pages/Landing'
 
 
 
+import './index.scss'
 
 ReactDOM.render(
     <App />
