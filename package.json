@@ -1,0 +1,10 @@
+{
+  "name": "webpack-babel",
+  "version": "0.0.1",
+  "description": "Template de Webpack + Babel",
+  "main": "index.js",
+  "repository": "vazio",
+  "author": "Misael Silva de Souza",
+  "license": "MIT",
+  "private": false
+}
